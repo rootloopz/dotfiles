@@ -101,6 +101,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias "pbcopy=xclip -selection clipboard"
-alias ssh "kitty +kitten ssh"
+alias ssh="kitty +kitten ssh"
 alias icat="kitty +kitten icat"
+alias vim="nvim"
 
