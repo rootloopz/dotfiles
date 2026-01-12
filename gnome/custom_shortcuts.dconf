@@ -1,0 +1,8 @@
+[/]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
+www=['<Control>o']
+
+[custom-keybindings/custom0]
+binding='<Control>Return'
+command='kitty'
+name='launch terminal'
